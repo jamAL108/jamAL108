@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jamAL108/jamAL108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+1.Web developer building websites and web applications.
 
-Here are some ideas to get you started:
+2.Specialized in Back-end development, designing and working with MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3.Solved more than 100 questions in Leetcode.
+
+4.Currently learning fundamentals of Data sciences and Machine learning.
+
+5.Looking forward to contributr=e in open source.
+
+
+
+
