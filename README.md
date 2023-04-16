@@ -1,5 +1,8 @@
 # 💫 About Me:
--  I’m currently working on [Mark-evaluation](https://github.com/jamAL108/mark-evaluation)<br> - I’m currently learning Fundamentals of Machine learning<br> - Ask me about FullStack webdev , Java , Data structures<br>
+-  
+-  I’m currently working on [Mark-evaluation](https://github.com/jamAL108/mark-evaluation)<br> 
+-  I’m currently learning Fundamentals of Machine learning<br>
+-   Ask me about FullStack webdev , Java , Data structures<br>
 
 
 # 🌐 Socials:
