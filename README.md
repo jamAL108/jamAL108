@@ -1,8 +1,8 @@
 # 💫 About Me:
--  I’m currently working on [Mark-evaluation](https://github.com/jamAL108/mark-evaluation)<br> I’m currently learning Fundamentals of Machine learning<br> Ask me about FullStack webdev , Java , Data structures<br>
+-  I’m currently working on [Mark-evaluation](https://github.com/jamAL108/mark-evaluation)<br> - I’m currently learning Fundamentals of Machine learning<br> - Ask me about FullStack webdev , Java , Data structures<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamal.myd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamal-mydeen-09887924a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jamal_976) 
 
 # 💻 Tech Stack:
