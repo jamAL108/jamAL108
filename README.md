@@ -1,7 +1,6 @@
 # 💫 About Me:
 -  Specialized in Front-end development, designing and working with MERN stack
--  Solved more than 250+ questions in [Leetcode](https://leetcode.com/jamal7869) ( 129 E / 97 M / 5 H )
--  I’m currently working on [Mark-evaluation](https://github.com/jamAL108/mark-evaluation)<br> 
+-  I’m currently working on [FlavourFusion](https://github.com/jamAL108/FlavourFusion)<br> 
 -  I’m currently learning Fundamentals of Machine learning<br>
 -   Ask me about FullStack webdev , Java , Data structures<br>
 
