@@ -12,7 +12,7 @@
 
 
 # 💻 Tech Stack:
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -94,12 +94,12 @@
  </tr>
 </table>
 
----
 
-# 📊 GitHub Stats:
+
+
+  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jamAL108&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamAL108&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamAL108&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <p align="center">
