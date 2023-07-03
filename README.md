@@ -46,11 +46,11 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="icon" width="65" height="65" />
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/C-icon.svg" alt="icon" width="65" height="65" />
       <br>C
     </td>
   </tr>
