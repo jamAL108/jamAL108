@@ -92,6 +92,33 @@
       <br>tensorflow
     </td>
  </tr>
+   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="MongoDB" />
+      <br>Flask
+    </td>
+        <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs -->
+      </td>
+      </td>
+            <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
+      <br>c -->
+    </td>
+              <td align="center" width="96">
+<!--         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github -->
+    </td>
+              <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
+      <br>postman -->
+    </td>
+              <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
+      <br>tensorflow -->
+    </td>
+ </tr>
 </table>
 
 
