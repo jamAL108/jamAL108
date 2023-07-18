@@ -1,8 +1,9 @@
 # 💫 About Me:
--  Specialized in Front-end development, designing and working with MERN stack
--  I’m currently working on [FlavourFusion](https://github.com/jamAL108/FlavourFusion)<br> 
--  I’m currently learning Fundamentals of Machine learning<br>
--   Ask me about FullStack webdev , Java , Data structures<br>
+-  🧑🏽‍💻 I am an Aspiring Full Stack Developer 
+-   🏼 I am a Self-Taught Developer
+-  🎓 Currently, a third-year student taking Computer Science
+-  🌟 Machine Learning enthusiast
+-   Ask me about FullStack webdev , Java , Data structures,python<br>
 
 
 # 🌐 Socials:
