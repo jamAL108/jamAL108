@@ -130,7 +130,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamAL108&theme=onedark&hide_border=false)<br/>
 
 
-### LEETCODE :
+# LEETCODE :
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jamal108?theme=nord&font=Livvic)
 
 <br><br>
