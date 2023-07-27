@@ -131,7 +131,7 @@
 
 
 ### LEETCODE :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/iamhk12?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/jamAL108/) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jamal108?theme=nord&font=Livvic)
 
 <br><br>
 
