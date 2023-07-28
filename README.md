@@ -128,6 +128,7 @@
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jamAL108&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamAL108&theme=onedark&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamal108&show_icons=true&locale=en&layout=compact" alt="jamal108" /></p>
 
 
 # LEETCODE :
