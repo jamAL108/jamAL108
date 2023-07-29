@@ -127,19 +127,16 @@
 </table>
 
 
-
-
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jamAL108&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jamAL108&theme=onedark&hide_border=false)<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamal108&show_icons=true&locale=en&layout=compact" alt="jamal108" /></p>
-
-
 # LEETCODE :
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jamal108?theme=nord&font=Livvic)
 
 <br><br>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jamal108&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamal108&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal108&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
 <!-- <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamAL108&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a> -->
