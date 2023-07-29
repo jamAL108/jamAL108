@@ -54,8 +54,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="tailwind" />
+      <br>SCSS
     </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Git" />
@@ -80,9 +80,13 @@
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
       <br>c
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
+    </td> -->
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="VsCode" />
+      <br>github
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
@@ -99,13 +103,13 @@
       <br>Flask
     </td>
         <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs -->
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Nodejs" />
+      <br>Tailwind
       </td>
       </td>
             <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
-      <br>c -->
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="VsCode" />
+      <br>My sql
     </td>
               <td align="center" width="96">
 <!--         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
