@@ -137,14 +137,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=jamal108&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamal108&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal108&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p align="center">
-<!-- <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jamAL108&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a> -->
-<a href="https://github.com/jamAL108?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jamAL108&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
-</p>
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
