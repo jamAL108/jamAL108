@@ -49,9 +49,9 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <br>Nextjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="tailwind" />
@@ -80,10 +80,6 @@
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
       <br>c
     </td>
-<!--               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td> -->
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="VsCode" />
       <br>github
