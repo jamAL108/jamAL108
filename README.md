@@ -1,9 +1,7 @@
 # 💫 About Me:
--  🧑🏽‍💻 I am an Aspiring Full Stack Developer 
 -   🏼 I am a Self-Taught Developer
--  🎓 Currently, a third-year student taking Computer Science
--  🌟 Machine Learning enthusiast
--   Ask me about FullStack webdev , Java , Data structures,python<br>
+-  🎓 Currently, a third-year student taking Computer Science From RAIT , DYPU
+-  🐇 Ask me about FullStack webdev , Java , Data structures,python<br>
 
 
 # 🌐 Socials:
