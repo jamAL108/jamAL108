@@ -1,7 +1,7 @@
 # 💫 About Me:
 -   🏼 I am a Self-Taught Developer
 -  🎓 Currently, a third-year student taking Computer Science From RAIT , DYPU
--  🐇 Ask me about FullStack webdev, Java, Data structures, python<br>
+-  🐇 Ask me about FullStack webdev, Java, Data structures, TypeScript<br>
 
 
 # 🌐 Socials:
@@ -18,8 +18,8 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
+              <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <br>Nextjs
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -30,94 +30,14 @@
       <br>TypeScript
     </td>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-      <br>Nextjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="tailwind" />
-      <br>SCSS
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Git" />
-      <br>Express
-    </td>
-        <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Git" />
-      <br>Material UI
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
-      <br>c
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="VsCode" />
-      <br>github
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
-      <br>postman
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
-      <br>tensorflow
-    </td>
- </tr>
-   <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="MongoDB" />
-      <br>Flask
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Nodejs" />
+         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Nodejs" />
       <br>Tailwind
-      </td>
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="VsCode" />
-      <br>My sql
     </td>
-              <td align="center" width="96">
-<!--         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github -->
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
-              <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vue" />
-      <br>postman -->
-    </td>
-              <td align="center" width="96">
-<!--         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Sass" />
-      <br>tensorflow -->
-    </td>
- </tr>
+  </tr>
 </table>
 
 
