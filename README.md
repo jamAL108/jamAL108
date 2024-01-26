@@ -1,7 +1,7 @@
 # 💫 About Me:
--   🏼 I am a Self-Taught Developer
+-   🏼 A Self-Taught Developer
 -  🎓 Currently, a third-year student taking Computer Science From RAIT , DYPU
--  🐇 Ask me about FullStack webdev, Java, Data structures, TypeScript<br>
+-  🐇 Ask me about FullStack Web Development, Java, Data structures, TypeScript<br>
 
 
 # 🌐 Socials:
