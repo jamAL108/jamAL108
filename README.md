@@ -48,6 +48,6 @@
 
 
 # 📊 GitHub Stats:
-<img alt="jamal108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal108&theme=react&langs_count=16&layout=compact" /><br>
+<img alt="jamal108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal108&hide=jupyter%20notebook,html&theme=react&langs_count=16&layout=compact" /><br>
 ![](https://github-readme-stats.vercel.app/api?username=jamal108&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamal108&theme=dark&hide_border=false)<br/>
