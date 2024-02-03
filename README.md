@@ -10,7 +10,7 @@
 # [![](https://visitcount.itsvg.in/api?id=jamAL108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <table align="center">
   <tr>
     <td align="center" width="96">
