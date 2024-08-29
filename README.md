@@ -44,6 +44,9 @@
 # LEETCODE :
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jamal108?theme=nord&font=Livvic)
 
+# CODEFORCES :
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jamAL_108&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/jamAL_108)
+
 <br><br>
 
 
